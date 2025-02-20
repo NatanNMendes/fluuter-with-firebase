@@ -1,0 +1,2 @@
+C:/Users/Aluno/flutter/atividade/android/app/.cxx/RelWithDebInfo/1a1s63u2/armeabi-v7a/CMakeFiles/edit_cache.dir
+C:/Users/Aluno/flutter/atividade/android/app/.cxx/RelWithDebInfo/1a1s63u2/armeabi-v7a/CMakeFiles/rebuild_cache.dir
